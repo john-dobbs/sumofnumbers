@@ -1,6 +1,6 @@
 // console.log(_.identity(1));
 
-let testData = [1, 2, 3, 4, 5];
+const testData = [1, 2, 3, 4, 5];
 
 function sumForLoop(data) {
   let sum = 0;
